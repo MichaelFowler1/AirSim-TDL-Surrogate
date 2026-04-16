@@ -42,8 +42,6 @@ Installation & Usage
 1. Environment Setup
 PowerShell
 # Clone the repository
-git clone https://github.com/your-username/Virtual-Track.git
-cd Virtual-Track
 
 # Initialize virtual environment
 python -m venv .venv
