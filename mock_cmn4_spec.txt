@@ -1,0 +1,6 @@
+Field J0.0 | Initial Entry | 75 bits | Network Sync |
+Field J2.2 | Air PPLI | 75 bits | Friendly Position |
+Field J2.5 | Land PPLI | 75 bits | Ground Status |
+Field J3.2 | Air Track | 75 bits | Surveillance |
+Field J3.5 | Land Point | 75 bits | Ground Track |
+Field J28.2 | Free Text | 75 bits | Information Mgmt |

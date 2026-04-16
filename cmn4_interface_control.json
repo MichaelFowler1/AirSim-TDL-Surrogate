@@ -1,0 +1,38 @@
+[
+    {
+        "id": "J0.0",
+        "name": "Initial Entry",
+        "bits": 75,
+        "type": "Network Sync"
+    },
+    {
+        "id": "J2.2",
+        "name": "Air PPLI",
+        "bits": 75,
+        "type": "Friendly Position"
+    },
+    {
+        "id": "J2.5",
+        "name": "Land PPLI",
+        "bits": 75,
+        "type": "Ground Status"
+    },
+    {
+        "id": "J3.2",
+        "name": "Air Track",
+        "bits": 75,
+        "type": "Surveillance"
+    },
+    {
+        "id": "J3.5",
+        "name": "Land Point",
+        "bits": 75,
+        "type": "Ground Track"
+    },
+    {
+        "id": "J28.2",
+        "name": "Free Text",
+        "bits": 75,
+        "type": "Information Mgmt"
+    }
+]

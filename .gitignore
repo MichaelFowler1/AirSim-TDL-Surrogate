@@ -1,0 +1,24 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (NEVER push this, it's too big)
+.venv/
+env/
+venv/
+
+# Live Data & Temporary Files
+live_mids_stream.json
+*.log
+
+# Databases
+# We want recruiters to run your db_loader.py to create this themselves
+wicked_tactical.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
