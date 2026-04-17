@@ -1,5 +1,5 @@
 ![Virtual Track Terminal Display](image.png)
-![Virtual Track Terminal Display](image2.png)
+![Virtual Track Terminal Display](image2.jpg)
 Virtual Track: Tactical Data Link (TDL) Simulator
 Virtual Track is a high-fidelity flight simulation and tactical data decoding pipeline designed for Tactical Edge environments. The system leverages the AirSim (Colosseum) Physics Engine to simulate an EA-18G Growler electronic warfare platform, generating real-time telemetry that is processed through a decoupled ETL pipeline and decoded via a MIL-STD-6016 J-Series terminal.
 
