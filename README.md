@@ -1,3 +1,5 @@
+[![tests](https://github.com/MichaelFowler1/AirSim-TDL-Surrogate/actions/workflows/tests.yml/badge.svg)](https://github.com/MichaelFowler1/AirSim-TDL-Surrogate/actions/workflows/tests.yml)
+
 ![Virtual Track Terminal Display](image.png)
 ![Virtual Track Terminal Display](image2.jpg)
 ![Virtual Track Terminal Display](image3.png)
